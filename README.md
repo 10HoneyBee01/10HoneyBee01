@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD Mahedi Hasan Joy</h1>
 <h3 align="center">A passionate learner from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=10honeybee01&label=Profile%20views&color=0e75b6&style=flat" alt="10honeybee01" /> </p>
+<p align="left"> <img align="center" width="600" src="111586408-c8dd8a80-878e-11eb-94c8-483e2962a667.gif" alt="10honeybee01" /> </p>
 
 - 🔭 I’m currently working on **Metastatic Cancer Detection Using Deep Novel Neural Architecture.**
 
