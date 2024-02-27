@@ -1,6 +1,8 @@
+![logo](https://github.com/10HoneyBee01/10HoneyBee01/blob/main/111586408-c8dd8a80-878e-11eb-94c8-483e2962a667.gif)
 <h1 align="center">Hi 👋, I'm MD Mahedi Hasan Joy</h1>
 <h3 align="center">A passionate learner from Bangladesh</h3>
-<p align="left"> <img align="center" width="600" src="111586408-c8dd8a80-878e-11eb-94c8-483e2962a667.gif" alt="10honeybee01" /> </p>
+<img align="center" width="600" src="111586408-c8dd8a80-878e-11eb-94c8-483e2962a667.gif" alt="10honeybee01" />
+<p align="left">  </p>
 
 - 🔭 I’m currently working on **Metastatic Cancer Detection Using Deep Novel Neural Architecture.**
 
