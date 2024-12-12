@@ -17,6 +17,7 @@
 - 📫 How to reach me **mahedi.hasanjoy1234@gmail.com**
 
 - ⚡ Fun fact **I code like a turtle😥😥 but the proficiency is like Gamera😎😎😎**
+<img align="right" alt="Gamera" width="200" src="https://https://github.com/10HoneyBee01/10HoneyBee01/blob/main/tumblr_nvwyq8FTLJ1r12p03o6_500.gif">
 <img align="right" alt="coding" width="400" src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
